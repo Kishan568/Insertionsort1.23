@@ -1,0 +1,8 @@
+E:\Assisted project\Section 8\Insertionsort1.23\bin\Debug\Insertionsort1.23.exe.config
+E:\Assisted project\Section 8\Insertionsort1.23\bin\Debug\Insertionsort1.23.exe
+E:\Assisted project\Section 8\Insertionsort1.23\bin\Debug\Insertionsort1.23.pdb
+E:\Assisted project\Section 8\Insertionsort1.23\obj\Debug\Insertionsort1.23.csproj.AssemblyReference.cache
+E:\Assisted project\Section 8\Insertionsort1.23\obj\Debug\Insertionsort1.23.csproj.SuggestedBindingRedirects.cache
+E:\Assisted project\Section 8\Insertionsort1.23\obj\Debug\Insertionsort1.23.csproj.CoreCompileInputs.cache
+E:\Assisted project\Section 8\Insertionsort1.23\obj\Debug\Insertionsort1.23.exe
+E:\Assisted project\Section 8\Insertionsort1.23\obj\Debug\Insertionsort1.23.pdb
